@@ -4,7 +4,7 @@ A Power BI dashboard project analyzing sales data for an e-commerce company, Fli
 
 ## Preview
 
-![Dashboard Screenshot](Screenshots/Screenshot 2025-07-13 163713.png)
+![Dashboard Screenshot](https://github.com/ritwij-20/powerbi-flickbuy-dashboard/blob/main/Screenshots/Screenshot%202025-07-13%20163713.png)
 
 ## Features
 
