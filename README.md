@@ -20,11 +20,6 @@ A Power BI dashboard project analyzing sales data for an e-commerce company, Fli
 - DAX
 - Power Query
 
-## Source
-
-Dashboard inspired by this tutorial:  
-[YouTube - E-Commerce Sales Dashboard](https://www.youtube.com/watch?v=6cV3OwFrOkk&t=1119s)
-
 ## Note
 
 This project uses sample data and is for learning and portfolio purposes.
